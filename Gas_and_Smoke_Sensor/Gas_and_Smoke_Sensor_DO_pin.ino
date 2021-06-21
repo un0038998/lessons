@@ -3,6 +3,7 @@
 void setup() 
 {
   pinMode(BUZZER_PIN, OUTPUT);
+  pinMode(2, INPUT);
 }
 
 void loop() 
